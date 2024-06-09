@@ -1,7 +1,11 @@
 Name: Maligi Puneeth
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS1330
+
 DOMAIN: PYTHON PROGRAMMING
+
 Mentor: SRAVANI GOUNI
 
 Overview of the Project
